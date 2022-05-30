@@ -9,7 +9,7 @@ $.ajaxPrefilter(function(options) {
     }
     //全局complete函数
     options.complete = function(res) {
-        console.log(res);
+        //console.log(res);
         // responseJSON:
         //     message: "身份认证失败！"
         // status: 1

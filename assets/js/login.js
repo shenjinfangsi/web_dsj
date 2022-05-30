@@ -9,7 +9,7 @@ $(function() {
         $(".reg-box").hide();
         $(".login-box").show();
     });
-    var url = 'http://www.liulongbin.top:3007';
+    //var url = 'http://www.liulongbin.top:3007';
     var form = layui.form;
     var layer = layui.layer;
     form.verify({
